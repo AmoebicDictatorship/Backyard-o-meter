@@ -57,7 +57,7 @@ Other considerations:
 - Laser eye safety
 
 ##### Thermal Cameras #####
-Description:
+Description: use cameras to detech the heat signatures of people
 
 Advantages:
 - Accuracy
