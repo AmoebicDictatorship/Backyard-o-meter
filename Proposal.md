@@ -1,4 +1,4 @@
-# Backyard-o-metrics #
+# Backyard-o-meter #
 
 ## Brian Maher, Forest Eckardt, and Michael Biscotti ##
 
